@@ -81,10 +81,3 @@ To build a motion graphics tool that feels:
 
 ---
 
-## 📌 Getting Started (WIP)
-
-```bash
-git clone https://github.com/yourname/bitcode-rennova
-cd bitcode-rennova
-yarn install
-yarn start
