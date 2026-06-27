@@ -43,11 +43,8 @@ BitCode Rennova is part of the BitCode ecosystem, focused on:
 
 ## 🛠️ Tech Stack
 
-- Electron
-- JavaScript / TypeScript
-- Canvas / WebGL rendering engine
-- Node.js
-- FFmpeg (planned export system)
+- Python
+- PySide6
 
 ---
 
