@@ -1,7 +1,3 @@
-> # Pre-Release Product Soon
-
----
-
 # 🚀 BitCode Rennova
 
 > Create stunning motion graphics with the power of editing and coding.
