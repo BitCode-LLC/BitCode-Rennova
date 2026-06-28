@@ -1,7 +1,5 @@
 # 🚀 BitCode Rennova
 
-> Create stunning motion graphics with the power of editing and coding.
-
 BitCode Rennova is a next-generation motion graphics editor built for creators and developers who want **speed, control, and creativity in one place**.
 
 ---
